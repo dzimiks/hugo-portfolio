@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://examplesite.com"
+baseURL = "https://focused-lamport-2c575e.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
