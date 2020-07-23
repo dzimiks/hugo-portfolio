@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://focused-lamport-2c575e.netlify.app"
+baseURL = "https://hugo-portfolio-grid-dynamics.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
